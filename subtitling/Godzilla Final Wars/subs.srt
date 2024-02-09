@@ -92,14 +92,24 @@ We can't maintain this. We must surface!
 - Depth is 6700 meters!
 - We're already beyond our limit!
 
+00:05:46,000 --> 00:05:48,000
+No! Stay on course.
+
+00:06:04,400 --> 00:06:05,500
+Fire missiles!
+
+00:06:09,300 --> 00:06:10,500
+Go right into it!
+
 22
 00:06:15,050 --> 00:06:17,299
 Inside temperature now
 at 80 degrees Celsius!
 
 23
-00:06:17,300 --> 00:06:18,340
-Captain!
+00:06:17,300 --> 00:06:19,600
+- Captain!
+- Stay on course!
 
 24
 00:06:25,100 --> 00:06:27,070
@@ -109,31 +119,54 @@ Temperature now at 90 Celsius!
 00:06:28,000 --> 00:06:30,220
 Captain! We can't take anymore!
 
+00:06:38,700 --> 00:06:40,700
+Now! Surface!
+
 26
-00:06:46,300 --> 00:06:47,844
+00:06:46,300 --> 00:06:47,500
 Manda in pursuit!
 
+00:06:49,500 --> 00:06:52,000
+Turn 180 degree!
+
 27
-00:07:09,350 --> 00:07:11,310
+00:07:09,350 --> 00:07:10,900
 Automatic firing system down!
+
+00:07:11,500 --> 00:07:13,000
+Ozaki, manual targeting.
 
 28
 00:07:58,350 --> 00:08:00,190
 Manda is terminated.
 
 29
-00:08:01,100 --> 00:08:03,300
+00:08:01,100 --> 00:08:03,000
 Ship damage at 72%.
+
+00:08:03,100 --> 00:08:06,000
+Captain, we got a call from the base.
 
 30
 00:08:07,000 --> 00:08:11,610
-Captain Gordon, were you
+- Captain Gordon, were you
 planning on sinking the Gotengo?
+- Oh, shit.
 
 31
-00:08:12,900 --> 00:08:15,520
-You can't avoid a court
-martial this time.
+00:08:12,900 --> 00:08:16,500
+- You can't avoid a court martial this time.
+- You know what we just went through?
+
+00:08:17,300 --> 00:08:20,200
+I ain't going to your court martial
+or anythig else that you have.
+
+00:08:21,000 --> 00:08:23,000
+So just keep your mouth shut!
+
+00:08:23,700 --> 00:08:26,300
+Gotengo! Return to base.
 
 32
 00:10:07,950 --> 00:10:08,980
